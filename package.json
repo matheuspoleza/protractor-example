@@ -1,0 +1,22 @@
+{
+  "name": "protractor-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuspoleza/protractor-example.git"
+  },
+  "author": "Matheus Poleza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheuspoleza/protractor-example/issues"
+  },
+  "homepage": "https://github.com/matheuspoleza/protractor-example#readme",
+  "devDependencies": {
+    "protractor": "^2.4.0"
+  }
+}
